@@ -554,6 +554,27 @@ button:disabled {
   gap: 18px;
 }
 
+
+.movie-body {
+  background:
+    linear-gradient(180deg, rgba(18, 27, 36, 0.82), rgba(18, 27, 36, 0.96)),
+    url("tournament-pages/box-office-hits/images/Box Office Hits Tournament.png") center / cover fixed;
+}
+
+.movie-card img,
+.movie-champion-card img {
+  object-fit: cover;
+  background: #0f1720;
+}
+
+.movie-card .trailer-link {
+  background: var(--coral);
+}
+
+.movie-card .trailer-link:hover {
+  background: #b24e32;
+}
+
 .dino-card {
   position: relative;
   min-height: 600px;
