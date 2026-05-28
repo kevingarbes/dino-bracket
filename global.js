@@ -1,4 +1,5 @@
 const footerLinks = [
+  { label: "Home", href: "index.html" },
   { label: "Contact Us", href: "contact-us.html" },
   { label: "Privacy Policy", href: "privacy-policy.html" },
   { label: "Terms and Conditions", href: "terms-and-conditions.html" }
