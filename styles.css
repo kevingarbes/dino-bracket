@@ -452,6 +452,48 @@ button:disabled {
   background: #f4f1e9;
 }
 
+.policy-card {
+  max-width: 880px;
+  margin: 0 auto 48px;
+  padding: clamp(22px, 4vw, 42px);
+  border: 1px solid rgba(11, 81, 71, 0.12);
+  border-radius: 14px;
+  background: #fff;
+  box-shadow: var(--shadow);
+}
+
+.policy-card h2 {
+  margin: 28px 0 10px;
+  color: var(--forest);
+  font-size: clamp(1.45rem, 3vw, 2rem);
+}
+
+.policy-card h2:first-child {
+  margin-top: 0;
+}
+
+.policy-card h3 {
+  margin: 18px 0 8px;
+  color: var(--ink);
+}
+
+.policy-card p,
+.policy-card li {
+  color: var(--muted);
+}
+
+.policy-card a {
+  color: var(--forest);
+  font-weight: 900;
+}
+
+.contact-card {
+  min-height: 260px;
+}
+
+.contact-card iframe {
+  display: block;
+}
 .app-body {
   min-height: 100vh;
   background:
