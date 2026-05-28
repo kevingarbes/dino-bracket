@@ -666,62 +666,60 @@ function restartTournament() {
   renderMatch();
 }
 
-function renderBracketSlot(slot, fallback = "TBD") {
-  const winnerClass = slot && slot.isWinner ? " bracket-slot-winner" : "";
-  const label = slot && slot.name ? slot.name : fallback;
-  return `<span class="bracket-slot${winnerClass}">${escapeHtml(label)}</span>`;
-}
+function renderBracketSlot(contender, winner, isActive) {
+  const classes = ["bracket-slot"];
+  if (winner && contender && winner.name === contender.name) classes.push("is-winner");
+  if (isActive) classes.push("is-active");
 
-function matchToSlots(match) {
-  return match.entrants.map((entrant) => ({
-    name: entrant ? entrant.name : "TBD",
-    isWinner: Boolean(match.winner && entrant && match.winner.name === entrant.name)
-  }));
-}
-
-function renderBracketRound(label, matches) {
   return `
-    <div class="bracket-round">
-      <h3>${escapeHtml(label)}</h3>
-      ${matches.map((match) => {
-        const slots = matchToSlots(match);
-        return `
-          <div class="bracket-match">
-            ${renderBracketSlot(slots[0])}
-            ${renderBracketSlot(slots[1])}
-          </div>
-        `;
-      }).join("")}
+    <div class="${classes.join(" ")}">
+      ${contender ? `<span>#${contender.seed}</span>${escapeHtml(contender.name)}` : "TBD"}
     </div>
   `;
 }
 
-function renderDivisionBracket(division) {
+function renderBracketMatch(match, activeMatch) {
+  const isActive = activeMatch && activeMatch.id === match.id;
   return `
-    <section class="bracket-division">
-      <h3>${escapeHtml(division.name)}</h3>
-      <div class="live-bracket-grid division-grid">
-        ${division.rounds.map((round, index) => renderBracketRound(divisionRoundName(index), round)).join("")}
-      </div>
-    </section>
-  `;
-}
-
-function renderFinalsBracket() {
-  return `
-    <section class="bracket-division finals-bracket">
-      <h3>Final Cut</h3>
-      <div class="live-bracket-grid finals-grid">
-        ${state.finals.map((round, index) => renderBracketRound(finalRoundName(index), round)).join("")}
-      </div>
-    </section>
+    <div class="bracket-match ${isActive ? "is-current" : ""}">
+      ${renderBracketSlot(match.entrants[0], match.winner, isActive)}
+      ${renderBracketSlot(match.entrants[1], match.winner, isActive)}
+    </div>
   `;
 }
 
 function renderBracket() {
-  liveBracket.innerHTML = state.divisions.map(renderDivisionBracket).join("") + renderFinalsBracket();
-}
+  const activeMatch = state.champion ? null : currentMatch();
+  const divisions = state.divisions.map((division) => `
+    <article class="division-bracket">
+      <h3>${escapeHtml(division.name)}</h3>
+      <div class="bracket-rounds">
+        ${division.rounds.map((round, index) => `
+          <section class="bracket-round">
+            <h4>${escapeHtml(divisionRoundName(index))}</h4>
+            ${round.map((match) => renderBracketMatch(match, activeMatch)).join("")}
+          </section>
+        `).join("")}
+      </div>
+    </article>
+  `).join("");
 
+  const finals = `
+    <article class="division-bracket finals-bracket">
+      <h3>Final Cut</h3>
+      <div class="bracket-rounds finals-rounds">
+        ${state.finals.map((round, index) => `
+          <section class="bracket-round">
+            <h4>${escapeHtml(finalRoundName(index))}</h4>
+            ${round.map((match) => renderBracketMatch(match, activeMatch)).join("")}
+          </section>
+        `).join("")}
+      </div>
+    </article>
+  `;
+
+  liveBracket.innerHTML = `<div class="live-bracket-grid">${divisions}${finals}</div>`;
+}
 async function startTournament(randomize = false) {
   await factsReady;
   state = buildState(randomize);
