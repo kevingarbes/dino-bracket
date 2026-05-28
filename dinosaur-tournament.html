@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dinosaur Bracket - Redesign Preview</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="app-body">
+  <main class="bracket-app">
+    <section id="intro-screen" class="intro-screen">
+      <img src="tournament-pages/dinosaurs/images/Dinosaur Bracket.png" alt="Dinosaur Bracket Logo">
+      <p class="kicker">64 contenders, one champion</p>
+      <h1>Welcome to Dinosaur Bracket</h1>
+      <p>Pick your favorite dinosaurs in head-to-head matchups.</p>
+      <div class="seed-actions">
+        <button id="default-seeds" type="button">Use Default Seeds</button>
+        <button id="random-seeds" type="button">Random Seeding</button>
+      </div>
+    </section>
+
+    <section id="matchup-screen" class="matchup-screen hidden">
+      <div class="round-header">
+        <div>
+          <p class="kicker">Theropods - Round 1</p>
+          <h1 id="title">Tyrannosaurus rex vs Ceratosaurus</h1>
+        </div>
+        <p id="instructions">Click on your favorite dinosaur to advance them to the next round.</p>
+      </div>
+
+      <div id="matchup-container" class="matchup-container">
+        <button class="dino-card" type="button" data-index="0">
+          <img src="tournament-pages/dinosaurs/images/Theropods/Tyrannosaurus rex.png" alt="Tyrannosaurus rex">
+          <span class="seed">#1</span>
+          <h2>Tyrannosaurus rex</h2>
+          <p><strong>Size:</strong> 40 ft long, 12 ft tall, around 9 tons.</p>
+          <p><strong>Period:</strong> Late Cretaceous.</p>
+          <p><strong>Fun Fact:</strong> Had one of the strongest bites in history.</p>
+          <a class="learn-more" href="tournament-pages/dinosaurs/articles/theropods/Tyrannosaurus-rex.html" target="_blank" rel="noreferrer">Learn More</a>
+        </button>
+        <button class="dino-card" type="button" data-index="1">
+          <img src="tournament-pages/dinosaurs/images/Theropods/Ceratosaurus.png" alt="Ceratosaurus">
+          <span class="seed">#16</span>
+          <h2>Ceratosaurus</h2>
+          <p><strong>Size:</strong> 20 ft long, 8 ft tall, about 1 ton.</p>
+          <p><strong>Period:</strong> Late Jurassic.</p>
+          <p><strong>Fun Fact:</strong> Had a horn on its nose.</p>
+          <a class="learn-more" href="tournament-pages/dinosaurs/articles/theropods/Ceratosaurus.html" target="_blank" rel="noreferrer">Learn More</a>
+        </button>
+      </div>
+
+      <aside class="ad-link">Get an <a href="https://dinobracket.com/" target="_blank" rel="noreferrer">Ask Me About My T-Rex Flip Shirt!</a></aside>
+
+      <div class="bracket-controls">
+        <button id="restart-tournament" type="button">Restart Tournament</button>
+        <button id="previous-matchup" type="button" disabled>Previous Matchup</button>
+      </div>
+    </section>
+  </main>
+
+  <div id="popup" class="modal hidden" role="dialog" aria-modal="true">
+    <div>
+      <p id="popup-message">Advance Tyrannosaurus rex?</p>
+      <button id="back-button" type="button">Back</button>
+      <button id="next-button" type="button">Next</button>
+    </div>
+  </div>
+
+  <script src="preview.js"></script>
+</body>
+</html>
