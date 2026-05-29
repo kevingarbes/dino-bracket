@@ -575,7 +575,18 @@ button:disabled {
   background: #b24e32;
 }
 
-.dino-card {
+
+.cryptid-body {
+  background:
+    linear-gradient(180deg, rgba(18, 27, 36, 0.82), rgba(18, 27, 36, 0.96)),
+    url("tournament-pages/cryptids/images/Phantom Four Logo.png") center / cover fixed;
+}
+
+.cryptid-card img,
+.cryptid-champion-card img {
+  object-fit: cover;
+  background: #141817;
+}.dino-card {
   position: relative;
   min-height: 600px;
   display: flex;
