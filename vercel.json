@@ -1,8 +1,18 @@
 {
     "redirects":  [
                       {
+                          "source":  "/dinosaurs",
+                          "destination":  "/dinosaur-tournament.html",
+                          "permanent":  false
+                      },
+                      {
                           "source":  "/dinosaurs/",
                           "destination":  "/dinosaur-tournament.html",
+                          "permanent":  false
+                      },
+                      {
+                          "source":  "/box-office-hits",
+                          "destination":  "/box-office-hits-tournament.html",
                           "permanent":  false
                       },
                       {
@@ -11,8 +21,18 @@
                           "permanent":  false
                       },
                       {
+                          "source":  "/cryptids",
+                          "destination":  "/cryptid-tournament.html",
+                          "permanent":  false
+                      },
+                      {
                           "source":  "/cryptids/",
                           "destination":  "/cryptid-tournament.html",
+                          "permanent":  false
+                      },
+                      {
+                          "source":  "/dog-breeds",
+                          "destination":  "/dog-breed-tournament.html",
                           "permanent":  false
                       },
                       {
@@ -21,13 +41,28 @@
                           "permanent":  false
                       },
                       {
+                          "source":  "/flowers",
+                          "destination":  "/flower-tournament.html",
+                          "permanent":  false
+                      },
+                      {
                           "source":  "/flowers/",
                           "destination":  "/flower-tournament.html",
                           "permanent":  false
                       },
                       {
+                          "source":  "/popes",
+                          "destination":  "/pope-tournament.html",
+                          "permanent":  false
+                      },
+                      {
                           "source":  "/popes/",
                           "destination":  "/pope-tournament.html",
+                          "permanent":  false
+                      },
+                      {
+                          "source":  "/sharks",
+                          "destination":  "/shark-tournament.html",
                           "permanent":  false
                       },
                       {
