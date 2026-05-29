@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shark Bracket - Dino Bracket</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="app-body shark-body">
+  <main class="bracket-app">
+    <section id="intro-screen" class="intro-screen">
+      <img src="tournament-pages/sharks/images/Shark Bracket.png" alt="Shark Bracket Logo">
+      <p class="kicker">64 sharks, one champion</p>
+      <h1>Welcome to Shark Bracket</h1>
+      <p>Pick your favorite sharks in head-to-head matchups.</p>
+      <div class="seed-actions"><button id="default-seeds" type="button">Use Default Seeds</button><button id="random-seeds" type="button">Random Seeding</button></div>
+    </section>
+    <section id="matchup-screen" class="matchup-screen hidden"><div class="round-header"><div><p class="kicker">Coastal Killers - Round 1</p><h1 id="title">Tiger Shark vs Port Jackson Shark</h1></div><p id="instructions">Click on your favorite shark to advance it to the next round.</p></div><div id="matchup-container" class="matchup-container"></div><div class="bracket-controls"><button id="restart-tournament" type="button">Restart Tournament</button><button id="previous-matchup" type="button" disabled>Previous Matchup</button></div><section class="live-bracket" aria-labelledby="live-bracket-title"><div class="live-bracket-header"><p class="kicker">Live Bracket</p><h2 id="live-bracket-title">Tournament Progress</h2></div><div id="live-bracket" class="live-bracket-board"></div></section></section>
+  </main>
+  <footer class="site-footer"><nav aria-label="Footer"></nav></footer>
+  <div id="popup" class="modal hidden" role="dialog" aria-modal="true"><div><p id="popup-message">Advance Tiger Shark?</p><button id="back-button" type="button">Back</button><button id="next-button" type="button">Next</button></div></div>
+  <script src="shark-tournament.js"></script><script src="global.js"></script>
+</body>
+</html>

@@ -625,6 +625,17 @@ button:disabled {
   background: #141817;
 }
 
+.shark-body {
+  background:
+    linear-gradient(180deg, rgba(18, 27, 36, 0.78), rgba(18, 27, 36, 0.96)),
+    url("tournament-pages/sharks/images/FIN-al Four Logo.png") center / cover fixed;
+}
+
+.shark-card img,
+.shark-champion-card img {
+  object-fit: cover;
+  background: #141817;
+}
 .dino-card {
   position: relative;
   min-height: 600px;

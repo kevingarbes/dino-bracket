@@ -5,6 +5,10 @@
                          "destination":  "/pope-tournament.html"
                      },
                      {
+                         "source":  "/sharks/",
+                         "destination":  "/shark-tournament.html"
+                     },
+                     {
                          "source":  "/Brachylophosaurus/",
                          "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Brachylophosaurus.html"
                      },
@@ -1283,6 +1287,262 @@
                      {
                          "source":  "/Urban-VIII/",
                          "destination":  "/tournament-pages/popes/articles/reform-revolution/Urban-VIII.html"
+                     },
+                     {
+                         "source":  "/Australian-Marbled-Catshark/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Australian-Marbled-Catshark.html"
+                     },
+                     {
+                         "source":  "/Blind-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Blind-Shark.html"
+                     },
+                     {
+                         "source":  "/Cobbler-Wobbegong/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Cobbler-Wobbegong.html"
+                     },
+                     {
+                         "source":  "/Epaulette-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Epaulette-Shark.html"
+                     },
+                     {
+                         "source":  "/Japanese-Wobbegong/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Japanese-Wobbegong.html"
+                     },
+                     {
+                         "source":  "/Leopard-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Leopard-Shark.html"
+                     },
+                     {
+                         "source":  "/Nurse-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Nurse-Shark.html"
+                     },
+                     {
+                         "source":  "/Ornate-Wobbegong/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Ornate-Wobbegong.html"
+                     },
+                     {
+                         "source":  "/Rusty-Carpetshark/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Rusty-Carpetshark.html"
+                     },
+                     {
+                         "source":  "/Short-Tail-Nurse-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Short-Tail-Nurse-Shark.html"
+                     },
+                     {
+                         "source":  "/Slender-Bamboo-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Slender-Bamboo-Shark.html"
+                     },
+                     {
+                         "source":  "/Spotted-Bamboo-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Spotted-Bamboo-Shark.html"
+                     },
+                     {
+                         "source":  "/Spotted-Wobbegong/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Spotted-Wobbegong.html"
+                     },
+                     {
+                         "source":  "/Tasselled-Wobbegong/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Tasselled-Wobbegong.html"
+                     },
+                     {
+                         "source":  "/Tawny-Nurse-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Tawny-Nurse-Shark.html"
+                     },
+                     {
+                         "source":  "/Zebra-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/carpet-sharks/Zebra-Shark.html"
+                     },
+                     {
+                         "source":  "/Blacktip-Reef-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Blacktip-Reef-Shark.html"
+                     },
+                     {
+                         "source":  "/Blacktip-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Blacktip-Shark.html"
+                     },
+                     {
+                         "source":  "/Bonnethead-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Bonnethead-Shark.html"
+                     },
+                     {
+                         "source":  "/Broadnose-Sevengill-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Broadnose-Sevengill-Shark.html"
+                     },
+                     {
+                         "source":  "/Bull-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Bull-Shark.html"
+                     },
+                     {
+                         "source":  "/Caribbean-Reef-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Caribbean-Reef-Shark.html"
+                     },
+                     {
+                         "source":  "/Galapagos-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Galapagos-Shark.html"
+                     },
+                     {
+                         "source":  "/Great-Hammerhead-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Great-Hammerhead-Shark.html"
+                     },
+                     {
+                         "source":  "/Grey-Reef-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Grey-Reef-Shark.html"
+                     },
+                     {
+                         "source":  "/Horn-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Horn-Shark.html"
+                     },
+                     {
+                         "source":  "/Lemon-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Lemon-Shark.html"
+                     },
+                     {
+                         "source":  "/Port-Jackson-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Port-Jackson-Shark.html"
+                     },
+                     {
+                         "source":  "/Sand-Tiger-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Sand-Tiger-Shark.html"
+                     },
+                     {
+                         "source":  "/Spinner-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Spinner-Shark.html"
+                     },
+                     {
+                         "source":  "/Tiger-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Tiger-Shark.html"
+                     },
+                     {
+                         "source":  "/Whitetip-Reef-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/coastal-killers/Whitetip-Reef-Shark.html"
+                     },
+                     {
+                         "source":  "/American-Pocket-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/American-Pocket-Shark.html"
+                     },
+                     {
+                         "source":  "/Angular-Roughshark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Angular-Roughshark.html"
+                     },
+                     {
+                         "source":  "/Bluntnose-Sixgill-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Bluntnose-Sixgill-Shark.html"
+                     },
+                     {
+                         "source":  "/Cookiecutter-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Cookiecutter-Shark.html"
+                     },
+                     {
+                         "source":  "/Dwarf-Lanternshark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Dwarf-Lanternshark.html"
+                     },
+                     {
+                         "source":  "/False-Catshark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/False-Catshark.html"
+                     },
+                     {
+                         "source":  "/Frilled-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Frilled-Shark.html"
+                     },
+                     {
+                         "source":  "/Goblin-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Goblin-Shark.html"
+                     },
+                     {
+                         "source":  "/Greenland-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Greenland-Shark.html"
+                     },
+                     {
+                         "source":  "/Japanese-Sawshark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Japanese-Sawshark.html"
+                     },
+                     {
+                         "source":  "/Megamouth-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Megamouth-Shark.html"
+                     },
+                     {
+                         "source":  "/Ninja-Lanternshark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Ninja-Lanternshark.html"
+                     },
+                     {
+                         "source":  "/Pacific-Sleeper-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Pacific-Sleeper-Shark.html"
+                     },
+                     {
+                         "source":  "/Swell-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Swell-Shark.html"
+                     },
+                     {
+                         "source":  "/Velvet-Belly-Lanternshark/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Velvet-Belly-Lanternshark.html"
+                     },
+                     {
+                         "source":  "/Viper-Dogfish/",
+                         "destination":  "/tournament-pages/sharks/articles/deep-water-demons/Viper-Dogfish.html"
+                     },
+                     {
+                         "source":  "/Basking-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Basking-Shark.html"
+                     },
+                     {
+                         "source":  "/Blue-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Blue-Shark.html"
+                     },
+                     {
+                         "source":  "/Bronze-Whaler-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Bronze-Whaler-Shark.html"
+                     },
+                     {
+                         "source":  "/Common-Thresher-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Common-Thresher-Shark.html"
+                     },
+                     {
+                         "source":  "/Crocodile-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Crocodile-Shark.html"
+                     },
+                     {
+                         "source":  "/Dusky-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Dusky-Shark.html"
+                     },
+                     {
+                         "source":  "/Great-White-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Great-White-Shark.html"
+                     },
+                     {
+                         "source":  "/Longfin-Mako-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Longfin-Mako-Shark.html"
+                     },
+                     {
+                         "source":  "/Oceanic-Whitetip-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Oceanic-Whitetip-Shark.html"
+                     },
+                     {
+                         "source":  "/Porbeagle-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Porbeagle-Shark.html"
+                     },
+                     {
+                         "source":  "/Salmon-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Salmon-Shark.html"
+                     },
+                     {
+                         "source":  "/Scalloped-Hammerhead-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Scalloped-Hammerhead-Shark.html"
+                     },
+                     {
+                         "source":  "/Shortfin-Mako-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Shortfin-Mako-Shark.html"
+                     },
+                     {
+                         "source":  "/Silky-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Silky-Shark.html"
+                     },
+                     {
+                         "source":  "/Silvertip-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Silvertip-Shark.html"
+                     },
+                     {
+                         "source":  "/Whale-Shark/",
+                         "destination":  "/tournament-pages/sharks/articles/pelagic-predators/Whale-Shark.html"
                      }
                  ]
 }
