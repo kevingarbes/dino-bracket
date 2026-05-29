@@ -28,7 +28,19 @@ function renderFooterLinks() {
 }
 
 function loadGoogleAnalytics() {
-  if (!googleAnalyticsId || window.gtag) {
+  if (!googleAnalyticsId) {
+    return;
+  }
+
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function gtag() {
+    window.dataLayer.push(arguments);
+  };
+
+  window.gtag("js", new Date());
+  window.gtag("config", googleAnalyticsId, { send_page_view: true });
+
+  if (document.querySelector(`script[src*="googletagmanager.com/gtag/js?id=${googleAnalyticsId}"]`)) {
     return;
   }
 
@@ -36,13 +48,6 @@ function loadGoogleAnalytics() {
   script.async = true;
   script.src = `https://www.googletagmanager.com/gtag/js?id=${googleAnalyticsId}`;
   document.head.appendChild(script);
-
-  window.dataLayer = window.dataLayer || [];
-  window.gtag = function gtag() {
-    window.dataLayer.push(arguments);
-  };
-  window.gtag("js", new Date());
-  window.gtag("config", googleAnalyticsId);
 }
 
 function loadStatCounter() {
