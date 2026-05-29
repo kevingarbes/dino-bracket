@@ -1,4 +1,4 @@
-﻿:root {
+:root {
   color-scheme: light;
   --ink: #17201d;
   --muted: #5f6a64;
@@ -609,6 +609,18 @@ button:disabled {
 
 .flower-card img,
 .flower-champion-card img {
+  object-fit: cover;
+  background: #141817;
+}
+
+.pope-body {
+  background:
+    linear-gradient(180deg, rgba(18, 27, 36, 0.78), rgba(18, 27, 36, 0.96)),
+    url("tournament-pages/popes/images/Holy Quadrinity.png") center / cover fixed;
+}
+
+.pope-card img,
+.pope-champion-card img {
   object-fit: cover;
   background: #141817;
 }

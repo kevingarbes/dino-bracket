@@ -1,6 +1,10 @@
 {
     "rewrites":  [
                      {
+                         "source":  "/popes/",
+                         "destination":  "/pope-tournament.html"
+                     },
+                     {
                          "source":  "/Brachylophosaurus/",
                          "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Brachylophosaurus.html"
                      },
@@ -1023,6 +1027,262 @@
                      {
                          "source":  "/Tulip/",
                          "destination":  "/tournament-pages/flowers/articles/perennials/Tulip.html"
+                     },
+                     {
+                         "source":  "/Anicetus/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Anicetus.html"
+                     },
+                     {
+                         "source":  "/Callixtus-I/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Callixtus-I.html"
+                     },
+                     {
+                         "source":  "/Clement-I/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Clement-I.html"
+                     },
+                     {
+                         "source":  "/Cornelius/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Cornelius.html"
+                     },
+                     {
+                         "source":  "/Damasus-I/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Damasus-I.html"
+                     },
+                     {
+                         "source":  "/Felix-I/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Felix-I.html"
+                     },
+                     {
+                         "source":  "/Gelasius-I/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Gelasius-I.html"
+                     },
+                     {
+                         "source":  "/Gregory-I/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Gregory-I.html"
+                     },
+                     {
+                         "source":  "/Leo-I/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Leo-I.html"
+                     },
+                     {
+                         "source":  "/Marcellinus/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Marcellinus.html"
+                     },
+                     {
+                         "source":  "/Peter/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Peter.html"
+                     },
+                     {
+                         "source":  "/Pontian/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Pontian.html"
+                     },
+                     {
+                         "source":  "/Sixtus-II/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Sixtus-II.html"
+                     },
+                     {
+                         "source":  "/Sylvester-I/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Sylvester-I.html"
+                     },
+                     {
+                         "source":  "/Victor-I/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Victor-I.html"
+                     },
+                     {
+                         "source":  "/Zephyrinus/",
+                         "destination":  "/tournament-pages/popes/articles/founders-fathers/Zephyrinus.html"
+                     },
+                     {
+                         "source":  "/Adrian-IV/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Adrian-IV.html"
+                     },
+                     {
+                         "source":  "/Alexander-III/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Alexander-III.html"
+                     },
+                     {
+                         "source":  "/Benedict-IX/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Benedict-IX.html"
+                     },
+                     {
+                         "source":  "/Boniface-VIII/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Boniface-VIII.html"
+                     },
+                     {
+                         "source":  "/Celestine-V/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Celestine-V.html"
+                     },
+                     {
+                         "source":  "/Clement-V/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Clement-V.html"
+                     },
+                     {
+                         "source":  "/Formosus/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Formosus.html"
+                     },
+                     {
+                         "source":  "/Gregory-VII/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Gregory-VII.html"
+                     },
+                     {
+                         "source":  "/Honorius-I/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Honorius-I.html"
+                     },
+                     {
+                         "source":  "/Innocent-III/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Innocent-III.html"
+                     },
+                     {
+                         "source":  "/John-XXII/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/John-XXII.html"
+                     },
+                     {
+                         "source":  "/Leo-IX/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Leo-IX.html"
+                     },
+                     {
+                         "source":  "/Nicholas-II/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Nicholas-II.html"
+                     },
+                     {
+                         "source":  "/Stephen-VI/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Stephen-VI.html"
+                     },
+                     {
+                         "source":  "/Sylvester-II/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Sylvester-II.html"
+                     },
+                     {
+                         "source":  "/Urban-II/",
+                         "destination":  "/tournament-pages/popes/articles/medieval-power-players/Urban-II.html"
+                     },
+                     {
+                         "source":  "/Benedict-XV/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/Benedict-XV.html"
+                     },
+                     {
+                         "source":  "/Benedict-XVI/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/Benedict-XVI.html"
+                     },
+                     {
+                         "source":  "/Clement-XIV/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/Clement-XIV.html"
+                     },
+                     {
+                         "source":  "/Francis/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/Francis.html"
+                     },
+                     {
+                         "source":  "/Gregory-XVI/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/Gregory-XVI.html"
+                     },
+                     {
+                         "source":  "/John-Paul-I/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/John-Paul-I.html"
+                     },
+                     {
+                         "source":  "/John-Paul-II/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/John-Paul-II.html"
+                     },
+                     {
+                         "source":  "/John-XXIII/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/John-XXIII.html"
+                     },
+                     {
+                         "source":  "/Leo-XII/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/Leo-XII.html"
+                     },
+                     {
+                         "source":  "/Leo-XIII/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/Leo-XIII.html"
+                     },
+                     {
+                         "source":  "/Paul-VI/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/Paul-VI.html"
+                     },
+                     {
+                         "source":  "/Pius-IX/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/Pius-IX.html"
+                     },
+                     {
+                         "source":  "/Pius-VII/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/Pius-VII.html"
+                     },
+                     {
+                         "source":  "/Pius-X/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/Pius-X.html"
+                     },
+                     {
+                         "source":  "/Pius-XI/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/Pius-XI.html"
+                     },
+                     {
+                         "source":  "/Pius-XII/",
+                         "destination":  "/tournament-pages/popes/articles/modern-era/Pius-XII.html"
+                     },
+                     {
+                         "source":  "/Alexander-VI/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Alexander-VI.html"
+                     },
+                     {
+                         "source":  "/Benedict-XIII/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Benedict-XIII.html"
+                     },
+                     {
+                         "source":  "/Benedict-XIV/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Benedict-XIV.html"
+                     },
+                     {
+                         "source":  "/Clement-VIII/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Clement-VIII.html"
+                     },
+                     {
+                         "source":  "/Clement-XI/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Clement-XI.html"
+                     },
+                     {
+                         "source":  "/Gregory-XIII/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Gregory-XIII.html"
+                     },
+                     {
+                         "source":  "/Innocent-XI/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Innocent-XI.html"
+                     },
+                     {
+                         "source":  "/Julius-II/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Julius-II.html"
+                     },
+                     {
+                         "source":  "/Leo-XI/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Leo-XI.html"
+                     },
+                     {
+                         "source":  "/Marcellus-II/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Marcellus-II.html"
+                     },
+                     {
+                         "source":  "/Paul-III/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Paul-III.html"
+                     },
+                     {
+                         "source":  "/Paul-V/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Paul-V.html"
+                     },
+                     {
+                         "source":  "/Pius-III/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Pius-III.html"
+                     },
+                     {
+                         "source":  "/Pius-V/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Pius-V.html"
+                     },
+                     {
+                         "source":  "/Sixtus-V/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Sixtus-V.html"
+                     },
+                     {
+                         "source":  "/Urban-VIII/",
+                         "destination":  "/tournament-pages/popes/articles/reform-revolution/Urban-VIII.html"
                      }
                  ]
 }
