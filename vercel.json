@@ -1,33 +1,42 @@
 {
+    "redirects":  [
+                      {
+                          "source":  "/dinosaurs/",
+                          "destination":  "/dinosaur-tournament.html",
+                          "permanent":  false
+                      },
+                      {
+                          "source":  "/box-office-hits/",
+                          "destination":  "/box-office-hits-tournament.html",
+                          "permanent":  false
+                      },
+                      {
+                          "source":  "/cryptids/",
+                          "destination":  "/cryptid-tournament.html",
+                          "permanent":  false
+                      },
+                      {
+                          "source":  "/dog-breeds/",
+                          "destination":  "/dog-breed-tournament.html",
+                          "permanent":  false
+                      },
+                      {
+                          "source":  "/flowers/",
+                          "destination":  "/flower-tournament.html",
+                          "permanent":  false
+                      },
+                      {
+                          "source":  "/popes/",
+                          "destination":  "/pope-tournament.html",
+                          "permanent":  false
+                      },
+                      {
+                          "source":  "/sharks/",
+                          "destination":  "/shark-tournament.html",
+                          "permanent":  false
+                      }
+                  ],
     "rewrites":  [
-                     {
-                         "source":  "/dinosaurs/",
-                         "destination":  "/dinosaur-tournament.html"
-                     },
-                     {
-                         "source":  "/box-office-hits/",
-                         "destination":  "/box-office-hits-tournament.html"
-                     },
-                     {
-                         "source":  "/cryptids/",
-                         "destination":  "/cryptid-tournament.html"
-                     },
-                     {
-                         "source":  "/dog-breeds/",
-                         "destination":  "/dog-breed-tournament.html"
-                     },
-                     {
-                         "source":  "/flowers/",
-                         "destination":  "/flower-tournament.html"
-                     },
-                     {
-                         "source":  "/popes/",
-                         "destination":  "/pope-tournament.html"
-                     },
-                     {
-                         "source":  "/sharks/",
-                         "destination":  "/shark-tournament.html"
-                     },
                      {
                          "source":  "/Brachylophosaurus/",
                          "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Brachylophosaurus.html"
