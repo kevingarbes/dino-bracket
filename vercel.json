@@ -1,4 +1,4 @@
-{
+﻿{
     "rewrites":  [
                      {
                          "source":  "/Brachylophosaurus/",
@@ -469,7 +469,7 @@
                          "destination":  "/tournament-pages/cryptids/articles/water-monsters/Champ.html"
                      },
                      {
-                         "source":  "/Devils-Lake-Monster/",
+                         "source":  "/Devil-s-Lake-Monster/",
                          "destination":  "/tournament-pages/cryptids/articles/water-monsters/Devil\u0027s%20Lake%20Monster.html"
                      },
                      {
@@ -545,12 +545,12 @@
                          "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Great-Dane.html"
                      },
                      {
-                         "source":  "/Great-Pyrenees/",
-                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Great-Pyrenees.html"
-                     },
-                     {
                          "source":  "/Greater-Swiss-Mountain-Dog/",
                          "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Greater-Swiss-Mountain-Dog.html"
+                     },
+                     {
+                         "source":  "/Great-Pyrenees/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Great-Pyrenees.html"
                      },
                      {
                          "source":  "/Irish-Wolfhound/",
@@ -767,6 +767,262 @@
                      {
                          "source":  "/Yorkshire-Terrier/",
                          "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Yorkshire-Terrier.html"
+                     },
+                     {
+                         "source":  "/Begonia/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Begonia.html"
+                     },
+                     {
+                         "source":  "/Bluebonnet/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Bluebonnet.html"
+                     },
+                     {
+                         "source":  "/California-Poppy/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/California-Poppy.html"
+                     },
+                     {
+                         "source":  "/Cornflower/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Cornflower.html"
+                     },
+                     {
+                         "source":  "/Geranium/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Geranium.html"
+                     },
+                     {
+                         "source":  "/Impatiens/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Impatiens.html"
+                     },
+                     {
+                         "source":  "/Marigold/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Marigold.html"
+                     },
+                     {
+                         "source":  "/Morning-Glory/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Morning-Glory.html"
+                     },
+                     {
+                         "source":  "/Nasturtium/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Nasturtium.html"
+                     },
+                     {
+                         "source":  "/Pansy/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Pansy.html"
+                     },
+                     {
+                         "source":  "/Petunia/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Petunia.html"
+                     },
+                     {
+                         "source":  "/Snapdragon/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Snapdragon.html"
+                     },
+                     {
+                         "source":  "/Sunflower/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Sunflower.html"
+                     },
+                     {
+                         "source":  "/Sweet-Alyssum/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Sweet-Alyssum.html"
+                     },
+                     {
+                         "source":  "/Sweet-Pea/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Sweet-Pea.html"
+                     },
+                     {
+                         "source":  "/Zinnia/",
+                         "destination":  "/tournament-pages/flowers/articles/annuals/Zinnia.html"
+                     },
+                     {
+                         "source":  "/Angelica/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Angelica.html"
+                     },
+                     {
+                         "source":  "/Black-Eyed-Susan/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Black-Eyed-Susan.html"
+                     },
+                     {
+                         "source":  "/Canterbury-Bells/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Canterbury-Bells.html"
+                     },
+                     {
+                         "source":  "/Cow-Parsnip/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Cow-Parsnip.html"
+                     },
+                     {
+                         "source":  "/Evening-Primrose/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Evening-Primrose.html"
+                     },
+                     {
+                         "source":  "/Forget-Me-Not/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Forget-Me-Not.html"
+                     },
+                     {
+                         "source":  "/Foxglove/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Foxglove.html"
+                     },
+                     {
+                         "source":  "/Hollyhock/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Hollyhock.html"
+                     },
+                     {
+                         "source":  "/Honesty/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Honesty.html"
+                     },
+                     {
+                         "source":  "/Iceland-Poppy/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Iceland-Poppy.html"
+                     },
+                     {
+                         "source":  "/Mullein/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Mullein.html"
+                     },
+                     {
+                         "source":  "/Queen-Annes-Lace/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Queen-Annes-Lace.html"
+                     },
+                     {
+                         "source":  "/Sweet-Rocket/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Sweet-Rocket.html"
+                     },
+                     {
+                         "source":  "/Sweet-William/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Sweet-William.html"
+                     },
+                     {
+                         "source":  "/Teasel/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Teasel.html"
+                     },
+                     {
+                         "source":  "/Wallflower/",
+                         "destination":  "/tournament-pages/flowers/articles/biennials/Wallflower.html"
+                     },
+                     {
+                         "source":  "/Bloodroot/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Bloodroot.html"
+                     },
+                     {
+                         "source":  "/Crocus/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Crocus.html"
+                     },
+                     {
+                         "source":  "/Desert-Sunflower/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Desert-Sunflower.html"
+                     },
+                     {
+                         "source":  "/Dutchmans-Breeches/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Dutchmans-Breeches.html"
+                     },
+                     {
+                         "source":  "/Hepatica/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Hepatica.html"
+                     },
+                     {
+                         "source":  "/Jack-in-the-Pulpit/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Jack-in-the-Pulpit.html"
+                     },
+                     {
+                         "source":  "/Lily-of-the-Valley/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Lily-of-the-Valley.html"
+                     },
+                     {
+                         "source":  "/Pasque-Flower/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Pasque-Flower.html"
+                     },
+                     {
+                         "source":  "/Red-Trillium/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Red-Trillium.html"
+                     },
+                     {
+                         "source":  "/Sand-Verbena/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Sand-Verbena.html"
+                     },
+                     {
+                         "source":  "/Shooting-Star/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Shooting-Star.html"
+                     },
+                     {
+                         "source":  "/Snowdrop/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Snowdrop.html"
+                     },
+                     {
+                         "source":  "/Spring-Beauty/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Spring-Beauty.html"
+                     },
+                     {
+                         "source":  "/Starflower/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Starflower.html"
+                     },
+                     {
+                         "source":  "/Trout-Lily/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Trout-Lily.html"
+                     },
+                     {
+                         "source":  "/Virginia-Bluebells/",
+                         "destination":  "/tournament-pages/flowers/articles/ephemerals/Virginia-Bluebells.html"
+                     },
+                     {
+                         "source":  "/Bleeding-Heart/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Bleeding-Heart.html"
+                     },
+                     {
+                         "source":  "/Chrysanthemum/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Chrysanthemum.html"
+                     },
+                     {
+                         "source":  "/Columbine/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Columbine.html"
+                     },
+                     {
+                         "source":  "/Coneflower/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Coneflower.html"
+                     },
+                     {
+                         "source":  "/Daffodil/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Daffodil.html"
+                     },
+                     {
+                         "source":  "/Dahlia/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Dahlia.html"
+                     },
+                     {
+                         "source":  "/Daylily/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Daylily.html"
+                     },
+                     {
+                         "source":  "/Hydrangea/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Hydrangea.html"
+                     },
+                     {
+                         "source":  "/Iris/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Iris.html"
+                     },
+                     {
+                         "source":  "/Lavender/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Lavender.html"
+                     },
+                     {
+                         "source":  "/Lily/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Lily.html"
+                     },
+                     {
+                         "source":  "/Milkweed/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Milkweed.html"
+                     },
+                     {
+                         "source":  "/Peony/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Peony.html"
+                     },
+                     {
+                         "source":  "/Rose/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Rose.html"
+                     },
+                     {
+                         "source":  "/Shasta-Daisy/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Shasta-Daisy.html"
+                     },
+                     {
+                         "source":  "/Tulip/",
+                         "destination":  "/tournament-pages/flowers/articles/perennials/Tulip.html"
                      }
                  ]
 }

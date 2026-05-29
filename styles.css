@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   color-scheme: light;
   --ink: #17201d;
   --muted: #5f6a64;
@@ -600,6 +600,19 @@ button:disabled {
   background: #141817;
 }
 
+
+.flower-body {
+  background:
+    linear-gradient(180deg, rgba(18, 27, 36, 0.82), rgba(18, 27, 36, 0.96)),
+    url("tournament-pages/flowers/images/Fresh Four logo.png") center / cover fixed;
+}
+
+.flower-card img,
+.flower-champion-card img {
+  object-fit: cover;
+  background: #141817;
+}
+
 .dino-card {
   position: relative;
   min-height: 600px;
@@ -888,3 +901,4 @@ button:disabled {
   }
 
 }
+
