@@ -148,7 +148,7 @@ function hydrateContender(contender, division) {
     facts,
     division: division.name,
     image: `tournament-pages/dinosaurs/images/${division.imageFolder}/${contender.image || `${contender.name}.png`}`,
-    article: `tournament-pages/dinosaurs/articles/${division.articleFolder}/${slugFor(contender)}.html`
+    article: `/${slugFor(contender)}/`
   };
 }
 

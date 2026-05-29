@@ -511,6 +511,13 @@ async function loadCryptidFacts() {
   }
 }
 
+function publicSlug(value) {
+  return String(value)
+    .replace(/[\u2019']/g, "")
+    .replace(/[^A-Za-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
 function hydrateContender(contender, division) {
   const facts = cryptidFacts[contender.factKey] || cryptidFacts[contender.name] || {};
 
@@ -519,7 +526,7 @@ function hydrateContender(contender, division) {
     facts,
     division: division.name,
     image: "tournament-pages/cryptids/images/" + division.imageFolder + "/" + contender.image,
-    article: "tournament-pages/cryptids/articles/" + division.articleFolder + "/" + contender.slug + ".html"
+    article: "/" + publicSlug(contender.slug) + "/"
   };
 }
 

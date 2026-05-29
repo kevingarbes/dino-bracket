@@ -1,0 +1,516 @@
+{
+    "rewrites":  [
+                     {
+                         "source":  "/Brachylophosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Brachylophosaurus.html"
+                     },
+                     {
+                         "source":  "/Camptosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Camptosaurus.html"
+                     },
+                     {
+                         "source":  "/Chasmosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Chasmosaurus.html"
+                     },
+                     {
+                         "source":  "/Corythosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Corythosaurus.html"
+                     },
+                     {
+                         "source":  "/Heterodontosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Heterodontosaurus.html"
+                     },
+                     {
+                         "source":  "/Iguanodon/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Iguanodon.html"
+                     },
+                     {
+                         "source":  "/Ouranosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Ouranosaurus.html"
+                     },
+                     {
+                         "source":  "/Pachycephalosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Pachycephalosaurus.html"
+                     },
+                     {
+                         "source":  "/Pachyrhinosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Pachyrhinosaurus.html"
+                     },
+                     {
+                         "source":  "/Parasaurolophus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Parasaurolophus.html"
+                     },
+                     {
+                         "source":  "/Protoceratops/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Protoceratops.html"
+                     },
+                     {
+                         "source":  "/Psittacosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Psittacosaurus.html"
+                     },
+                     {
+                         "source":  "/Stegoceras/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Stegoceras.html"
+                     },
+                     {
+                         "source":  "/Styracosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Styracosaurus.html"
+                     },
+                     {
+                         "source":  "/Triceratops/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Triceratops.html"
+                     },
+                     {
+                         "source":  "/Utahceratops/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/cerapods/Utahceratops.html"
+                     },
+                     {
+                         "source":  "/Agustinia/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Agustinia.html"
+                     },
+                     {
+                         "source":  "/Amargasaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Amargasaurus.html"
+                     },
+                     {
+                         "source":  "/Argentinosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Argentinosaurus.html"
+                     },
+                     {
+                         "source":  "/Bajadasaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Bajadasaurus.html"
+                     },
+                     {
+                         "source":  "/Barapasaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Barapasaurus.html"
+                     },
+                     {
+                         "source":  "/Brachiosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Brachiosaurus.html"
+                     },
+                     {
+                         "source":  "/Brontosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Brontosaurus.html"
+                     },
+                     {
+                         "source":  "/Daxiatitan/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Daxiatitan.html"
+                     },
+                     {
+                         "source":  "/Diplodocus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Diplodocus.html"
+                     },
+                     {
+                         "source":  "/Fukuititan/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Fukuititan.html"
+                     },
+                     {
+                         "source":  "/Massospondylus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Massospondylus.html"
+                     },
+                     {
+                         "source":  "/Patagotitan/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Patagotitan.html"
+                     },
+                     {
+                         "source":  "/Rebbachisaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Rebbachisaurus.html"
+                     },
+                     {
+                         "source":  "/Sauroposeidon/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Sauroposeidon.html"
+                     },
+                     {
+                         "source":  "/Shunosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Shunosaurus.html"
+                     },
+                     {
+                         "source":  "/Zhuchengtitan/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/sauropods/Zhuchengtitan.html"
+                     },
+                     {
+                         "source":  "/Allosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Allosaurus.html"
+                     },
+                     {
+                         "source":  "/Archaeopteryx/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Archaeopteryx.html"
+                     },
+                     {
+                         "source":  "/Carcharodontosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Carcharodontosaurus.html"
+                     },
+                     {
+                         "source":  "/Carnotaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Carnotaurus.html"
+                     },
+                     {
+                         "source":  "/Ceratosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Ceratosaurus.html"
+                     },
+                     {
+                         "source":  "/Compsognathus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Compsognathus.html"
+                     },
+                     {
+                         "source":  "/Deinonychus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Deinonychus.html"
+                     },
+                     {
+                         "source":  "/Dilophosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Dilophosaurus.html"
+                     },
+                     {
+                         "source":  "/Dromaeosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Dromaeosaurus.html"
+                     },
+                     {
+                         "source":  "/Gigantosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Gigantosaurus.html"
+                     },
+                     {
+                         "source":  "/Microraptor/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Microraptor.html"
+                     },
+                     {
+                         "source":  "/Oviraptor/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Oviraptor.html"
+                     },
+                     {
+                         "source":  "/Spinosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Spinosaurus.html"
+                     },
+                     {
+                         "source":  "/Therizinosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Therizinosaurus.html"
+                     },
+                     {
+                         "source":  "/Tyrannosaurus-rex/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Tyrannosaurus-rex.html"
+                     },
+                     {
+                         "source":  "/Velociraptor/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/theropods/Velociraptor.html"
+                     },
+                     {
+                         "source":  "/Ankylosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Ankylosaurus.html"
+                     },
+                     {
+                         "source":  "/Antarctopelta/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Antarctopelta.html"
+                     },
+                     {
+                         "source":  "/Edmontonia/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Edmontonia.html"
+                     },
+                     {
+                         "source":  "/Gargoyleosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Gargoyleosaurus.html"
+                     },
+                     {
+                         "source":  "/Gastonia/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Gastonia.html"
+                     },
+                     {
+                         "source":  "/Huayangosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Huayangosaurus.html"
+                     },
+                     {
+                         "source":  "/Kentrosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Kentrosaurus.html"
+                     },
+                     {
+                         "source":  "/Minmi/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Minmi.html"
+                     },
+                     {
+                         "source":  "/Mymoorapelta/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Mymoorapelta.html"
+                     },
+                     {
+                         "source":  "/Nodosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Nodosaurus.html"
+                     },
+                     {
+                         "source":  "/Polacanthus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Polacanthus.html"
+                     },
+                     {
+                         "source":  "/Sauropelta/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Sauropelta.html"
+                     },
+                     {
+                         "source":  "/Scelidosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Scelidosaurus.html"
+                     },
+                     {
+                         "source":  "/Stegosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Stegosaurus.html"
+                     },
+                     {
+                         "source":  "/Tuojiangosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Tuojiangosaurus.html"
+                     },
+                     {
+                         "source":  "/Wuerhosaurus/",
+                         "destination":  "/tournament-pages/dinosaurs/articles/thyreophorans/Wuerhosaurus.html"
+                     },
+                     {
+                         "source":  "/Ahool/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Ahool.html"
+                     },
+                     {
+                         "source":  "/Australian-Raptor/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Australian%20Raptor.html"
+                     },
+                     {
+                         "source":  "/Batsquatch/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Batsquatch.html"
+                     },
+                     {
+                         "source":  "/Jersey-Devil/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Jersey%20Devil.html"
+                     },
+                     {
+                         "source":  "/Kitinga/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Kitinga.html"
+                     },
+                     {
+                         "source":  "/Kongamato/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Kongamato.html"
+                     },
+                     {
+                         "source":  "/La-Lechuza/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/La%20Lechuza.html"
+                     },
+                     {
+                         "source":  "/Manananggal/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Manananggal.html"
+                     },
+                     {
+                         "source":  "/Mothman/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Mothman.html"
+                     },
+                     {
+                         "source":  "/Owlman/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Owlman.html"
+                     },
+                     {
+                         "source":  "/Piasa-Bird/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Piasa%20Bird.html"
+                     },
+                     {
+                         "source":  "/Ropen/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Ropen.html"
+                     },
+                     {
+                         "source":  "/Snallygaster/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Snallygaster.html"
+                     },
+                     {
+                         "source":  "/Texas-Pterodactyl/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Texas%20Pterodactyl.html"
+                     },
+                     {
+                         "source":  "/Thunderbird/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Thunderbird.html"
+                     },
+                     {
+                         "source":  "/Van-Meter-Visitor/",
+                         "destination":  "/tournament-pages/cryptids/articles/flying-beasts/Van%20Meter%20Visitor.html"
+                     },
+                     {
+                         "source":  "/Almas/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Almas.html"
+                     },
+                     {
+                         "source":  "/Beast-of-Bray-Road/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Beast%20of%20Bray%20Road.html"
+                     },
+                     {
+                         "source":  "/Dover-Demon/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Dover%20Demon.html"
+                     },
+                     {
+                         "source":  "/Flatwoods-Monster/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Flatwoods%20Monster.html"
+                     },
+                     {
+                         "source":  "/Fouke-Monster/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Fouke%20Monster.html"
+                     },
+                     {
+                         "source":  "/Goatman/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Goatman.html"
+                     },
+                     {
+                         "source":  "/Lizard-Man-of-Scape-Ore-Swamp/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Lizard%20Man%20of%20Scape%20Ore%20Swamp.html"
+                     },
+                     {
+                         "source":  "/Loveland-Frogman/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Loveland%20Frogman.html"
+                     },
+                     {
+                         "source":  "/Menehune/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Menehune.html"
+                     },
+                     {
+                         "source":  "/Michigan-Dogman/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Michigan%20Dogman.html"
+                     },
+                     {
+                         "source":  "/Orang-Pendek/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Orang%20Pendek.html"
+                     },
+                     {
+                         "source":  "/Sasquatch/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Sasquatch.html"
+                     },
+                     {
+                         "source":  "/Skunk-Ape/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Skunk%20Ape.html"
+                     },
+                     {
+                         "source":  "/Yeren/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Yeren.html"
+                     },
+                     {
+                         "source":  "/Yeti/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Yeti.html"
+                     },
+                     {
+                         "source":  "/Yowie/",
+                         "destination":  "/tournament-pages/cryptids/articles/humanoids/Yowie.html"
+                     },
+                     {
+                         "source":  "/Adjule/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Adjule.html"
+                     },
+                     {
+                         "source":  "/American-Hyena/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/American%20Hyena.html"
+                     },
+                     {
+                         "source":  "/Beast-of-Bladenboro/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Beast%20of%20Bladenboro.html"
+                     },
+                     {
+                         "source":  "/Beast-of-Bodmin-Moor/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Beast%20of%20Bodmin%20Moor.html"
+                     },
+                     {
+                         "source":  "/Beast-of-Gevaudan/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Beast%20of%20Gevaudan.html"
+                     },
+                     {
+                         "source":  "/Black-Shuck/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Black%20Shuck.html"
+                     },
+                     {
+                         "source":  "/Chupacabra/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Chupacabra.html"
+                     },
+                     {
+                         "source":  "/Grootslang/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Grootslang.html"
+                     },
+                     {
+                         "source":  "/Hodag/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Hodag.html"
+                     },
+                     {
+                         "source":  "/Jackalope/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Jackalope.html"
+                     },
+                     {
+                         "source":  "/Kasai-Rex/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Kasai%20Rex.html"
+                     },
+                     {
+                         "source":  "/Mngwa/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Mngwa.html"
+                     },
+                     {
+                         "source":  "/Mongolian-Death-Worm/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Mongolian%20Death%20Worm.html"
+                     },
+                     {
+                         "source":  "/Nandi-Bear/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Nandi%20Bear.html"
+                     },
+                     {
+                         "source":  "/Not-deer/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Not-deer.html"
+                     },
+                     {
+                         "source":  "/Wendigo/",
+                         "destination":  "/tournament-pages/cryptids/articles/land-monsters/Wendigo.html"
+                     },
+                     {
+                         "source":  "/Altamaha-ha/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Altamaha-ha.html"
+                     },
+                     {
+                         "source":  "/Bear-Lake-Monster/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Bear%20Lake%20Monster.html"
+                     },
+                     {
+                         "source":  "/Bunyip/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Bunyip.html"
+                     },
+                     {
+                         "source":  "/Cadborosaurus/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Cadborosaurus.html"
+                     },
+                     {
+                         "source":  "/Champ/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Champ.html"
+                     },
+                     {
+                         "source":  "/Devils-Lake-Monster/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Devil\u0027s%20Lake%20Monster.html"
+                     },
+                     {
+                         "source":  "/Issie/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Issie.html"
+                     },
+                     {
+                         "source":  "/Kraken/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Kraken.html"
+                     },
+                     {
+                         "source":  "/Lake-Tianchi-Monster/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Lake%20Tianchi%20Monster.html"
+                     },
+                     {
+                         "source":  "/Loch-Ness-Monster/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Loch%20Ness%20Monster.html"
+                     },
+                     {
+                         "source":  "/Lusca/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Lusca.html"
+                     },
+                     {
+                         "source":  "/Mokele-mbembe/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Mokele-mbembe.html"
+                     },
+                     {
+                         "source":  "/Morgawr/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Morgawr.html"
+                     },
+                     {
+                         "source":  "/Nahuelito/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Nahuelito.html"
+                     },
+                     {
+                         "source":  "/Ningen/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Ningen.html"
+                     },
+                     {
+                         "source":  "/Ogopogo/",
+                         "destination":  "/tournament-pages/cryptids/articles/water-monsters/Ogopogo.html"
+                     }
+                 ]
+}
