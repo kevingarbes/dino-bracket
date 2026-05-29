@@ -587,7 +587,20 @@ button:disabled {
 .cryptid-champion-card img {
   object-fit: cover;
   background: #141817;
-}.dino-card {
+}
+.dog-body {
+  background:
+    linear-gradient(180deg, rgba(18, 27, 36, 0.82), rgba(18, 27, 36, 0.96)),
+    url("tournament-pages/dog-breeds/images/Faithful Four Logo.png") center / cover fixed;
+}
+
+.dog-card img,
+.dog-champion-card img {
+  object-fit: cover;
+  background: #141817;
+}
+
+.dino-card {
   position: relative;
   min-height: 600px;
   display: flex;

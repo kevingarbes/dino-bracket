@@ -511,6 +511,262 @@
                      {
                          "source":  "/Ogopogo/",
                          "destination":  "/tournament-pages/cryptids/articles/water-monsters/Ogopogo.html"
+                     },
+                     {
+                         "source":  "/Akita/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Akita.html"
+                     },
+                     {
+                         "source":  "/Anatolian-Shepherd-Dog/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Anatolian-Shepherd-Dog.html"
+                     },
+                     {
+                         "source":  "/Bernese-Mountain-Dog/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Bernese-Mountain-Dog.html"
+                     },
+                     {
+                         "source":  "/Boerboel/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Boerboel.html"
+                     },
+                     {
+                         "source":  "/Borzoi/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Borzoi.html"
+                     },
+                     {
+                         "source":  "/Bullmastiff/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Bullmastiff.html"
+                     },
+                     {
+                         "source":  "/Dogue-de-Bordeaux/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Dogue-de-Bordeaux.html"
+                     },
+                     {
+                         "source":  "/Great-Dane/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Great-Dane.html"
+                     },
+                     {
+                         "source":  "/Great-Pyrenees/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Great-Pyrenees.html"
+                     },
+                     {
+                         "source":  "/Greater-Swiss-Mountain-Dog/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Greater-Swiss-Mountain-Dog.html"
+                     },
+                     {
+                         "source":  "/Irish-Wolfhound/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Irish-Wolfhound.html"
+                     },
+                     {
+                         "source":  "/Leonberger/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Leonberger.html"
+                     },
+                     {
+                         "source":  "/Mastiff/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Mastiff.html"
+                     },
+                     {
+                         "source":  "/Neopolitan-Mastiff/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Neopolitan-Mastiff.html"
+                     },
+                     {
+                         "source":  "/Newfoundland/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Newfoundland.html"
+                     },
+                     {
+                         "source":  "/Saint-Bernard/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/extra-large-dogs/Saint-Bernard.html"
+                     },
+                     {
+                         "source":  "/Airedale-Terrier/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Airedale-Terrier.html"
+                     },
+                     {
+                         "source":  "/Alaskan-Malamute/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Alaskan-Malamute.html"
+                     },
+                     {
+                         "source":  "/Belgian-Malinois/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Belgian-Malinois.html"
+                     },
+                     {
+                         "source":  "/Bloodhound/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Bloodhound.html"
+                     },
+                     {
+                         "source":  "/Boxer/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Boxer.html"
+                     },
+                     {
+                         "source":  "/Cane-Corso/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Cane-Corso.html"
+                     },
+                     {
+                         "source":  "/Chesapeake-Bay-Retriever/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Chesapeake-Bay-Retriever.html"
+                     },
+                     {
+                         "source":  "/Doberman-Pinscher/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Doberman-Pinscher.html"
+                     },
+                     {
+                         "source":  "/German-Shepherd-Dog/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/German-Shepherd-Dog.html"
+                     },
+                     {
+                         "source":  "/Giant-Schnauzer/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Giant-Schnauzer.html"
+                     },
+                     {
+                         "source":  "/Golden-Retriever/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Golden-Retriever.html"
+                     },
+                     {
+                         "source":  "/Irish-Setter/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Irish-Setter.html"
+                     },
+                     {
+                         "source":  "/Labrador-Retriever/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Labrador-Retriever.html"
+                     },
+                     {
+                         "source":  "/Rhodesian-Ridgeback/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Rhodesian-Ridgeback.html"
+                     },
+                     {
+                         "source":  "/Rottweiler/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Rottweiler.html"
+                     },
+                     {
+                         "source":  "/Weimaraner/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/large-dogs/Weimaraner.html"
+                     },
+                     {
+                         "source":  "/Australian-Cattle-Dog/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/Australian-Cattle-Dog.html"
+                     },
+                     {
+                         "source":  "/Australian-Shepherd/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/Australian-Shepherd.html"
+                     },
+                     {
+                         "source":  "/Basset-Hound/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/Basset-Hound.html"
+                     },
+                     {
+                         "source":  "/Border-Collie/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/Border-Collie.html"
+                     },
+                     {
+                         "source":  "/Brittany/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/Brittany.html"
+                     },
+                     {
+                         "source":  "/Bulldog/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/Bulldog.html"
+                     },
+                     {
+                         "source":  "/Collie/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/Collie.html"
+                     },
+                     {
+                         "source":  "/Dalmatian/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/Dalmatian.html"
+                     },
+                     {
+                         "source":  "/English-Cocker-Spaniel/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/English-Cocker-Spaniel.html"
+                     },
+                     {
+                         "source":  "/English-Springer-Spaniel/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/English-Springer-Spaniel.html"
+                     },
+                     {
+                         "source":  "/German-Shorthaired-Pointer/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/German-Shorthaired-Pointer.html"
+                     },
+                     {
+                         "source":  "/Miniature-American-Shepherd/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/Miniature-American-Shepherd.html"
+                     },
+                     {
+                         "source":  "/Poodle/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/Poodle.html"
+                     },
+                     {
+                         "source":  "/Portuguese-Water-Dog/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/Portuguese-Water-Dog.html"
+                     },
+                     {
+                         "source":  "/Siberian-Husky/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/Siberian-Husky.html"
+                     },
+                     {
+                         "source":  "/Vizsla/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/medium-dogs/Vizsla.html"
+                     },
+                     {
+                         "source":  "/Beagle/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Beagle.html"
+                     },
+                     {
+                         "source":  "/Boston-Terrier/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Boston-Terrier.html"
+                     },
+                     {
+                         "source":  "/Cavalier-King-Charles-Spaniel/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Cavalier-King-Charles-Spaniel.html"
+                     },
+                     {
+                         "source":  "/Chihuahua/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Chihuahua.html"
+                     },
+                     {
+                         "source":  "/Cocker-Spaniel/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Cocker-Spaniel.html"
+                     },
+                     {
+                         "source":  "/Dachshund/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Dachshund.html"
+                     },
+                     {
+                         "source":  "/French-Bulldog/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/French-Bulldog.html"
+                     },
+                     {
+                         "source":  "/Havanese/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Havanese.html"
+                     },
+                     {
+                         "source":  "/Maltese/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Maltese.html"
+                     },
+                     {
+                         "source":  "/Miniature-Schnauzer/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Miniature-Schnauzer.html"
+                     },
+                     {
+                         "source":  "/Pembroke-Welsh-Corgi/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Pembroke-Welsh-Corgi.html"
+                     },
+                     {
+                         "source":  "/Pomeranian/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Pomeranian.html"
+                     },
+                     {
+                         "source":  "/Pug/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Pug.html"
+                     },
+                     {
+                         "source":  "/Shetland-Sheepdog/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Shetland-Sheepdog.html"
+                     },
+                     {
+                         "source":  "/Shih-Tzu/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Shih-Tzu.html"
+                     },
+                     {
+                         "source":  "/Yorkshire-Terrier/",
+                         "destination":  "/tournament-pages/dog-breeds/articles/small-dogs/Yorkshire-Terrier.html"
                      }
                  ]
 }
